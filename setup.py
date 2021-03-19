@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="pygenerator_c_project",
+    name="pynewproject_c_project",
     version="1.0.0",
     author="Ericson Joseph",
     author_email="ericsonjoseph@gmail.com",
